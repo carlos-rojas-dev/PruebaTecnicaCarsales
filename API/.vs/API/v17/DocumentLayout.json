@@ -1,0 +1,332 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\PruebaTecnicaCarsales\\PruebaTecnicaCarsales\\API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B36014EF-43A7-4762-AE06-45247EF6DB5B}|API\\API.csproj|c:\\pruebatecnicacarsales\\pruebatecnicacarsales\\api\\api\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B36014EF-43A7-4762-AE06-45247EF6DB5B}|API\\API.csproj|solutionrelative:api\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B36014EF-43A7-4762-AE06-45247EF6DB5B}|API\\API.csproj|c:\\pruebatecnicacarsales\\pruebatecnicacarsales\\api\\api\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B36014EF-43A7-4762-AE06-45247EF6DB5B}|API\\API.csproj|solutionrelative:api\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B36014EF-43A7-4762-AE06-45247EF6DB5B}|API\\API.csproj|c:\\pruebatecnicacarsales\\pruebatecnicacarsales\\api\\api\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B36014EF-43A7-4762-AE06-45247EF6DB5B}|API\\API.csproj|solutionrelative:api\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B36014EF-43A7-4762-AE06-45247EF6DB5B}|API\\API.csproj|c:\\pruebatecnicacarsales\\pruebatecnicacarsales\\api\\api\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B36014EF-43A7-4762-AE06-45247EF6DB5B}|API\\API.csproj|solutionrelative:api\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B36014EF-43A7-4762-AE06-45247EF6DB5B}|API\\API.csproj|c:\\pruebatecnicacarsales\\pruebatecnicacarsales\\api\\api\\models\\episodiodata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B36014EF-43A7-4762-AE06-45247EF6DB5B}|API\\API.csproj|solutionrelative:api\\models\\episodiodata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B36014EF-43A7-4762-AE06-45247EF6DB5B}|API\\API.csproj|c:\\pruebatecnicacarsales\\pruebatecnicacarsales\\api\\api\\controllers\\basecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B36014EF-43A7-4762-AE06-45247EF6DB5B}|API\\API.csproj|solutionrelative:api\\controllers\\basecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B36014EF-43A7-4762-AE06-45247EF6DB5B}|API\\API.csproj|c:\\pruebatecnicacarsales\\pruebatecnicacarsales\\api\\api\\services\\characterservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B36014EF-43A7-4762-AE06-45247EF6DB5B}|API\\API.csproj|solutionrelative:api\\services\\characterservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B36014EF-43A7-4762-AE06-45247EF6DB5B}|API\\API.csproj|c:\\pruebatecnicacarsales\\pruebatecnicacarsales\\api\\api\\controllers\\episodecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B36014EF-43A7-4762-AE06-45247EF6DB5B}|API\\API.csproj|solutionrelative:api\\controllers\\episodecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B36014EF-43A7-4762-AE06-45247EF6DB5B}|API\\API.csproj|c:\\pruebatecnicacarsales\\pruebatecnicacarsales\\api\\api\\external\\externalapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B36014EF-43A7-4762-AE06-45247EF6DB5B}|API\\API.csproj|solutionrelative:api\\external\\externalapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B36014EF-43A7-4762-AE06-45247EF6DB5B}|API\\API.csproj|c:\\pruebatecnicacarsales\\pruebatecnicacarsales\\api\\api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B36014EF-43A7-4762-AE06-45247EF6DB5B}|API\\API.csproj|solutionrelative:api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B36014EF-43A7-4762-AE06-45247EF6DB5B}|API\\API.csproj|c:\\pruebatecnicacarsales\\pruebatecnicacarsales\\api\\api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B36014EF-43A7-4762-AE06-45247EF6DB5B}|API\\API.csproj|solutionrelative:api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B36014EF-43A7-4762-AE06-45247EF6DB5B}|API\\API.csproj|c:\\pruebatecnicacarsales\\pruebatecnicacarsales\\api\\api\\external\\iexternalapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B36014EF-43A7-4762-AE06-45247EF6DB5B}|API\\API.csproj|solutionrelative:api\\external\\iexternalapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B36014EF-43A7-4762-AE06-45247EF6DB5B}|API\\API.csproj|c:\\pruebatecnicacarsales\\pruebatecnicacarsales\\api\\api\\services\\apiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B36014EF-43A7-4762-AE06-45247EF6DB5B}|API\\API.csproj|solutionrelative:api\\services\\apiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B36014EF-43A7-4762-AE06-45247EF6DB5B}|API\\API.csproj|c:\\pruebatecnicacarsales\\pruebatecnicacarsales\\api\\api\\external\\rickandmortyclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B36014EF-43A7-4762-AE06-45247EF6DB5B}|API\\API.csproj|solutionrelative:api\\external\\rickandmortyclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B36014EF-43A7-4762-AE06-45247EF6DB5B}|API\\API.csproj|c:\\pruebatecnicacarsales\\pruebatecnicacarsales\\api\\api\\services\\icharacterservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B36014EF-43A7-4762-AE06-45247EF6DB5B}|API\\API.csproj|solutionrelative:api\\services\\icharacterservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B36014EF-43A7-4762-AE06-45247EF6DB5B}|API\\API.csproj|c:\\pruebatecnicacarsales\\pruebatecnicacarsales\\api\\api\\models\\episoderesponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B36014EF-43A7-4762-AE06-45247EF6DB5B}|API\\API.csproj|solutionrelative:api\\models\\episoderesponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B36014EF-43A7-4762-AE06-45247EF6DB5B}|API\\API.csproj|c:\\pruebatecnicacarsales\\pruebatecnicacarsales\\api\\api\\models\\episode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B36014EF-43A7-4762-AE06-45247EF6DB5B}|API\\API.csproj|solutionrelative:api\\models\\episode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B36014EF-43A7-4762-AE06-45247EF6DB5B}|API\\API.csproj|c:\\pruebatecnicacarsales\\pruebatecnicacarsales\\api\\api\\models\\character.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B36014EF-43A7-4762-AE06-45247EF6DB5B}|API\\API.csproj|solutionrelative:api\\models\\character.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 1122,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\PruebaTecnicaCarsales\\PruebaTecnicaCarsales\\API\\API\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "API\\Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\PruebaTecnicaCarsales\\PruebaTecnicaCarsales\\API\\API\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "API\\Pages\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-16T21:25:38.201Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\PruebaTecnicaCarsales\\PruebaTecnicaCarsales\\API\\API\\Pages\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "API\\Pages\\_ViewImports.cshtml",
+              "ToolTip": "C:\\PruebaTecnicaCarsales\\PruebaTecnicaCarsales\\API\\API\\Pages\\_ViewImports.cshtml",
+              "RelativeToolTip": "API\\Pages\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-16T21:25:34.674Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\PruebaTecnicaCarsales\\PruebaTecnicaCarsales\\API\\API\\Pages\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "API\\Pages\\_ViewStart.cshtml",
+              "ToolTip": "C:\\PruebaTecnicaCarsales\\PruebaTecnicaCarsales\\API\\API\\Pages\\_ViewStart.cshtml",
+              "RelativeToolTip": "API\\Pages\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-16T21:25:32.207Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\PruebaTecnicaCarsales\\PruebaTecnicaCarsales\\API\\API\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "API\\Pages\\Index.cshtml",
+              "ToolTip": "C:\\PruebaTecnicaCarsales\\PruebaTecnicaCarsales\\API\\API\\Pages\\Index.cshtml",
+              "RelativeToolTip": "API\\Pages\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAACEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-16T21:23:39.059Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BaseController.cs",
+              "DocumentMoniker": "C:\\PruebaTecnicaCarsales\\PruebaTecnicaCarsales\\API\\API\\Controllers\\BaseController.cs",
+              "RelativeDocumentMoniker": "API\\Controllers\\BaseController.cs",
+              "ToolTip": "C:\\PruebaTecnicaCarsales\\PruebaTecnicaCarsales\\API\\API\\Controllers\\BaseController.cs",
+              "RelativeToolTip": "API\\Controllers\\BaseController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T20:39:46.848Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CharacterService.cs",
+              "DocumentMoniker": "C:\\PruebaTecnicaCarsales\\PruebaTecnicaCarsales\\API\\API\\Services\\CharacterService.cs",
+              "RelativeDocumentMoniker": "API\\Services\\CharacterService.cs",
+              "ToolTip": "C:\\PruebaTecnicaCarsales\\PruebaTecnicaCarsales\\API\\API\\Services\\CharacterService.cs",
+              "RelativeToolTip": "API\\Services\\CharacterService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T20:36:00.076Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EpisodeController.cs",
+              "DocumentMoniker": "C:\\PruebaTecnicaCarsales\\PruebaTecnicaCarsales\\API\\API\\Controllers\\EpisodeController.cs",
+              "RelativeDocumentMoniker": "API\\Controllers\\EpisodeController.cs",
+              "ToolTip": "C:\\PruebaTecnicaCarsales\\PruebaTecnicaCarsales\\API\\API\\Controllers\\EpisodeController.cs",
+              "RelativeToolTip": "API\\Controllers\\EpisodeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T20:30:22.942Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ExternalApi.cs",
+              "DocumentMoniker": "C:\\PruebaTecnicaCarsales\\PruebaTecnicaCarsales\\API\\API\\External\\ExternalApi.cs",
+              "RelativeDocumentMoniker": "API\\External\\ExternalApi.cs",
+              "ToolTip": "C:\\PruebaTecnicaCarsales\\PruebaTecnicaCarsales\\API\\API\\External\\ExternalApi.cs",
+              "RelativeToolTip": "API\\External\\ExternalApi.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAYwD8AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T20:33:53.456Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\PruebaTecnicaCarsales\\PruebaTecnicaCarsales\\API\\API\\appsettings.json",
+              "RelativeDocumentMoniker": "API\\appsettings.json",
+              "ToolTip": "C:\\PruebaTecnicaCarsales\\PruebaTecnicaCarsales\\API\\API\\appsettings.json",
+              "RelativeToolTip": "API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-16T20:31:44.731Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EpisodioData.cs",
+              "DocumentMoniker": "C:\\PruebaTecnicaCarsales\\PruebaTecnicaCarsales\\API\\API\\Models\\EpisodioData.cs",
+              "RelativeDocumentMoniker": "API\\Models\\EpisodioData.cs",
+              "ToolTip": "C:\\PruebaTecnicaCarsales\\PruebaTecnicaCarsales\\API\\API\\Models\\EpisodioData.cs",
+              "RelativeToolTip": "API\\Models\\EpisodioData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T20:29:34.708Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\PruebaTecnicaCarsales\\PruebaTecnicaCarsales\\API\\API\\Program.cs",
+              "RelativeDocumentMoniker": "API\\Program.cs",
+              "ToolTip": "C:\\PruebaTecnicaCarsales\\PruebaTecnicaCarsales\\API\\API\\Program.cs",
+              "RelativeToolTip": "API\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T20:31:15.004Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IExternalApi.cs",
+              "DocumentMoniker": "C:\\PruebaTecnicaCarsales\\PruebaTecnicaCarsales\\API\\API\\External\\IExternalApi.cs",
+              "RelativeDocumentMoniker": "API\\External\\IExternalApi.cs",
+              "ToolTip": "C:\\PruebaTecnicaCarsales\\PruebaTecnicaCarsales\\API\\API\\External\\IExternalApi.cs",
+              "RelativeToolTip": "API\\External\\IExternalApi.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T20:42:30.494Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ICharacterService.cs",
+              "DocumentMoniker": "C:\\PruebaTecnicaCarsales\\PruebaTecnicaCarsales\\API\\API\\Services\\ICharacterService.cs",
+              "RelativeDocumentMoniker": "API\\Services\\ICharacterService.cs",
+              "ToolTip": "C:\\PruebaTecnicaCarsales\\PruebaTecnicaCarsales\\API\\API\\Services\\ICharacterService.cs",
+              "RelativeToolTip": "API\\Services\\ICharacterService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T20:22:33.163Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Episode.cs",
+              "DocumentMoniker": "C:\\PruebaTecnicaCarsales\\PruebaTecnicaCarsales\\API\\API\\Models\\Episode.cs",
+              "RelativeDocumentMoniker": "API\\Models\\Episode.cs",
+              "ToolTip": "C:\\PruebaTecnicaCarsales\\PruebaTecnicaCarsales\\API\\API\\Models\\Episode.cs",
+              "RelativeToolTip": "API\\Models\\Episode.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAuwBoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T20:19:27.563Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "EpisodeResponse.cs",
+              "DocumentMoniker": "C:\\PruebaTecnicaCarsales\\PruebaTecnicaCarsales\\API\\API\\Models\\EpisodeResponse.cs",
+              "RelativeDocumentMoniker": "API\\Models\\EpisodeResponse.cs",
+              "ToolTip": "C:\\PruebaTecnicaCarsales\\PruebaTecnicaCarsales\\API\\API\\Models\\EpisodeResponse.cs",
+              "RelativeToolTip": "API\\Models\\EpisodeResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T20:19:05.376Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Character.cs",
+              "DocumentMoniker": "C:\\PruebaTecnicaCarsales\\PruebaTecnicaCarsales\\API\\API\\Models\\Character.cs",
+              "RelativeDocumentMoniker": "API\\Models\\Character.cs",
+              "ToolTip": "C:\\PruebaTecnicaCarsales\\PruebaTecnicaCarsales\\API\\API\\Models\\Character.cs",
+              "RelativeToolTip": "API\\Models\\Character.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T20:18:30.81Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 148,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ApiService.cs",
+              "DocumentMoniker": "C:\\PruebaTecnicaCarsales\\PruebaTecnicaCarsales\\API\\API\\Services\\ApiService.cs",
+              "RelativeDocumentMoniker": "API\\Services\\ApiService.cs",
+              "ToolTip": "C:\\PruebaTecnicaCarsales\\PruebaTecnicaCarsales\\API\\API\\Services\\ApiService.cs",
+              "RelativeToolTip": "API\\Services\\ApiService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T20:36:09.163Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "RickAndMortyClient.cs",
+              "DocumentMoniker": "C:\\PruebaTecnicaCarsales\\PruebaTecnicaCarsales\\API\\API\\External\\RickAndMortyClient.cs",
+              "RelativeDocumentMoniker": "API\\External\\RickAndMortyClient.cs",
+              "ToolTip": "C:\\PruebaTecnicaCarsales\\PruebaTecnicaCarsales\\API\\API\\External\\RickAndMortyClient.cs",
+              "RelativeToolTip": "API\\External\\RickAndMortyClient.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T20:20:57.025Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
