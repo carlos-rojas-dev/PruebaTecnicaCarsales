@@ -70,10 +70,10 @@ El propósito de este proyecto es **demostrar una arquitectura escalable y mante
 
 ## 🧠 Ejemplo de Flujo de Datos
 
-1. El **frontend Angular** realiza una solicitud a `/api/{id}/episodes`.
-2. El **backend .NET Core** recibe la solicitud en `EpisodesController`.
-3. El controlador invoca un **servicio de aplicación** (`EpisodeService`).
-4. El servicio utiliza un **cliente HTTP especializado** (`RickAndMortyClient`) para consumir la API pública.
+1. El **frontend Angular** realiza una solicitud a `/api/base/episodes` para el detalle de personales de un eposodio.
+2. El **backend .NET Core** recibe la solicitud en `BaseController`.
+3. El controlador invoca un **servicio de aplicación** (`ExternalApi`).
+4. El servicio utiliza un **cliente HTTP especializado** (`ExternalApi`) para consumir la API pública.
 5. Los datos se mapean a **DTOs** internos y se devuelven al cliente Angular.
 6. Angular muestra los personajes y detalles del episodio en la interfaz.
 
